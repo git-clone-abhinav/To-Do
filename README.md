@@ -15,10 +15,17 @@ My exam is on 30Jan (Maths2 and Stats2) and I have a lot of things in my mind wh
 
 - [ ] **RF Alarm** - `Order a RF Module for Raspberry Pi and study my Doorbell` - Out of the blue one idea came to my head that my doorbell operates wirelessly, read its manual and found out that it operates on Radio Freqencies. I remembered one guy made a radio broadcasting station on youtube, and I too did it, was easy enough. So if I could somehow get the frequency in which the doorbell operates I could maybe replicate. On a bit of research, I think that I'll be buying a RF Module for my Raspberry-Pi and will be reading the frequency and then emmiting the same in order to ring the doorbell.
 
+- [ ] **Newsletter** - `Order a RF Module for Raspberry Pi and study my Doorbell` - 'General Observation' while visiting good websites, I often came across these "Newsletter" thingy and though why can't my club [Pichavaram Coding Club](https://codingclub.pichavaram.in) or [Bibliophiles](https://bibliophiles.pichavaram.in) have their own custom Newsletter as well. Whe thinking for the mechanisms, one possible mechanism that cam to my head was.
+ >-  Add a subscribe button to both webistes and save user's email into my API
+ >-  Then use our [Custom Mail Portal](https://portal.pichavaram.in) to send bulk emails.
 
+>While doing this all I though how these big websites would send their bulk mails and was reminded of a video that discussed bulk mailing plugins for Wrodpress websites.
+On research I found [Some Wordpress Newsletter Plugins](https://wpmailsmtp.com/wordpress-newsletter-plugins/) and found [this one](https://wordpress.org/plugins/newsletter/) eye catchy. Will do further research later.
 
+>Couple things I could do:
+>- Update your mailing lists
+>- Research on good newsletters
 
 ### Will add more when I get time. 
-![image](https://user-images.githubusercontent.com/33022492/150683487-5ffae0ca-62fc-42b7-a5d5-f3149176085f.png)
 
 :(
