@@ -26,8 +26,6 @@ On research I found [Some Wordpress Newsletter Plugins](https://wpmailsmtp.com/w
 >- Update your mailing lists
 >- Research on good newsletters
 
-- [ ] **Google Meet Music Bot** - `Learn Selenium and make a music bot` - Learn how to use Selenium, how to read text messages and save it to text file, react to custom messages, play songs from youtube music/video/ spotify for the same, how to divert speaker audio to mic. 
+- [ ] **Google Meet Music Bot** - `Learn Selenium and make a music bot` - Learn how to use Selenium, how to read text messages and save it to text file, react to custom messages, play songs from youtube music/video/ spotify for the same, how to divert speaker audio to mic. [DOCS + Research](https://rebel-wound-3c5.notion.site/Google-Meet-Music-Bot-5ae06e7adc8e45f2945c86a07816185b)
 
 ### Back after the exam 
-
-- [ ] **Notes** - `Build a worpress site for .md notes` - Make a notes site to document all the above stuff. 😁
