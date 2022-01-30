@@ -28,6 +28,6 @@ On research I found [Some Wordpress Newsletter Plugins](https://wpmailsmtp.com/w
 
 - [ ] **Google Meet Music Bot** - `Learn Selenium and make a music bot` - Learn how to use Selenium, how to read text messages and save it to text file, react to custom messages, play songs from youtube music/video/ spotify for the same, how to divert speaker audio to mic. 
 
-### Will add more when I get time. 
+### Back after the exam 
 
-:(
+- [ ] **Notes** - `Build a worpress site for .md notes` - Make a notes site to document all the above stuff. 😁
